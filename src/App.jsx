@@ -1,5 +1,5 @@
 import "./App.css";
-import Totdo from "../components/totdo";
+import Totdo from "../components/Totdo.jsx";
 import { useEffect, useState } from "react";
 import {
   readData,
